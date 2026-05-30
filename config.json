@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingppdate",
+        "uuid": 11349984,
+        "checksum": "ztfujo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
